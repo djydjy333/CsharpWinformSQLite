@@ -1,0 +1,2 @@
+E:\CsharpWinformSQLite\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+E:\CsharpWinformSQLite\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
